@@ -1,4 +1,4 @@
-/// ==UserScript==
+// ==UserScript==
 // @name         LinkedIn Promoted Content Blocker
 // @namespace    https://www.jabedmiah.com
 // @version      1.0
