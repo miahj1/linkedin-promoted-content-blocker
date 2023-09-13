@@ -13,6 +13,8 @@ posts to pop-up.
 :-------------------------:|:-------------------------:
 ![linkedin-feed-before](https://github.com/miahj1/linkedin-promoted-content-blocker/assets/84815985/eda62a04-e0aa-4681-8808-6db7dcec50e2)  |  ![linkedin-feed-after](https://github.com/miahj1/linkedin-promoted-content-blocker/assets/84815985/a6ff7396-c1e0-43d0-805e-295cef01a632)
 
+The script is avaliable on [GreasyFork](https://greasyfork.org/en/scripts/475168-linkedin-promoted-content-blocker).
+
 # Donate
 If you like this script and want me to continue maintaining it, please consider a donation. Thank you.
 
