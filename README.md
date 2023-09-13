@@ -1,7 +1,7 @@
 # LinkedIn Promoted Content Blocker
 
 I didn't enjoy seeing promoted corporate messages on my LinkedIn feed, so I created this script to remove all of them. There was
-another script called [LinkedIn Unsponsered](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) that did the samething, but 
+another script called [LinkedIn Unsponsored](https://greasyfork.org/en/scripts/379003-linkedin-unsponsored) that did the samething, but 
 it wasn't working and hasn't been updated. It used a method of scanning for the word "promoted" and required users 
 to participate and give different language variations of the word for the script to work for their specific native tongue--there's no need to do that for my script.
 
