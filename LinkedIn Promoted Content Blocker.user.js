@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         LinkedIn Promoted Content Blocker
 // @namespace    https://www.jabedmiah.com
-// @version      1.0
+// @version      1.01
 // @description  Blocks promoted posts from the LinkedIn feed.
 // @author       Jabed Miah
-// @match        *.linkedin.com/feed/
+// @match        *.linkedin.com/feed/*
 // @icon         https://www.google.com/s2/favicons?domain=linkedin.com
 // @supportURL   https://github.com/miahj1/linkedin-promoted-content-blocker/issues
 // @license      MIT
