@@ -15,7 +15,7 @@
 let initialUrl = location.href;
 
 function elementCheck(changes, observer) {
-    if (initialUrl.includes("feed")){
+    if (initialUrl.includes("feed")) {
         const cards = document.getElementsByClassName("ember-view  occludable-update");
 
         for (card of cards) {
